@@ -1,0 +1,16 @@
+.TodoForm {
+    padding: 20px;
+    background: #b6b9b9ed;
+    font-size: 16px;
+}
+.button {
+    padding: 5px ;
+    margin: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.inputForm {
+    width: 250px;
+    height: 24px;
+}

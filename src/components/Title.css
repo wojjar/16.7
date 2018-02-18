@@ -1,0 +1,11 @@
+p,h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
+p {
+    font-size: 18px;
+}

@@ -1,0 +1,13 @@
+.TodoList {
+    background: #548d9b;
+    padding-right: 15px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.button {
+    padding: 5px ;
+    margin: 5px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    border-radius: 4px;
+}
